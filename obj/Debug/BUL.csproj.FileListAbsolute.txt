@@ -1,0 +1,38 @@
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.dll
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.pdb
+C:\Users\phu\Downloads\PhanTranThaoDuy_CDNQTCSDL14\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.pdb
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.dll
+C:\Users\ResidentEvil\Documents\Visual Studio 2015\Projects\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.pdb
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.csprojResolveAssemblyReference.cache
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.dll
+C:\Users\duy\Downloads\ThucTapKyNangNghe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.pdb
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.dll
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\BUL.pdb
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.dll
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.dll
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\DAL.pdb
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\bin\Debug\PUBLIC.pdb
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.csproj.AssemblyReference.cache
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.csproj.CoreCompileInputs.cache
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.csproj.CopyComplete
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.dll
+D:\CodeCafe\CodeCafe\ThucTapKyNangNghe\Coffee\BUL\obj\Debug\BUL.pdb
